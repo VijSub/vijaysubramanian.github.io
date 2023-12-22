@@ -1,2 +1,2 @@
 # vijaysubramanian.github.io
-My website portfolio
+My website portfolio created using HTML, CSS, & JavaScript
