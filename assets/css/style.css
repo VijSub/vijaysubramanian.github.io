@@ -31,6 +31,11 @@ a:hover {
   position: relative;
 }
 
+.lead {
+  font-size: 1.7em; /* Increases the font size */
+  line-height: 1.6; /* Adjusts line spacing for better readability */
+}
+
 .color-a {
   text-decoration: none;
   color: #0078ff;
@@ -136,9 +141,10 @@ a:hover {
 
 /*--/ Title s /--*/
 .title-s {
-  font-weight: 600;
+  font-weight: 700;
   color: #1e1e1e;
   font-size: 1.1rem;
+  text-align: center;
 }
 
 /*--/ Title A /--*/
